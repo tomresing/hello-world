@@ -1,2 +1,3 @@
-# hello-world
-Trying the Github hello-world doc
+Tom Resing
+Senior Content Developer, SharePoint End User
+Microsoft
